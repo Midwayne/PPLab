@@ -1,0 +1,7 @@
+Compile a file - 
+mpicc filename.c -o filename
+
+Run a file - 
+mpirun -n run_procs filename
+
+usually run_procs is 2. Use 4 for q10
